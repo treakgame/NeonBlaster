@@ -1,0 +1,11 @@
+
+body {
+  margin: 0;
+  background: radial-gradient(#000010, #000);
+  overflow: hidden;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background: transparent;
+}
